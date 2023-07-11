@@ -9,4 +9,4 @@ Criando banco de dados<br>
 Criando tabelas e tuplas<br>
 
 ## Banco de dados utilizado:
-Mariadb
+Mariadb via terminal
